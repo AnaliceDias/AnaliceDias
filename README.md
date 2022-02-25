@@ -1,8 +1,8 @@
 ### Olá, bem vinde ao meu repositório ^^ 👋
 
-- 🔭 Atualmente estou em formação como desenvolvedora full stack
-- 😄 Promomes:Ela/Dela
-- ⚡ Fato engraçado: Eu amo amemdoim 😋
+- 💻 Atualmente estou em formação como desenvolvedora full stack
+- 🎈 Fato divertido: Eu amo amemdoim 😋 E meu destino dos sonhos é Bora Bora (Polinésia Francesa) 🌴
+- 🌼 Promomes:Ela/Dela
 
 <div dir="auto">
     <a href="https://github.com/AnaliceDias" >
