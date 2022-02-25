@@ -1,5 +1,13 @@
 ### Olá, bem vinde ao meu repositório ^^ 👋
 
+<div dir="auto">
+    <a href="https://github.com/AnaliceDias" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaliceDias&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"  style="max-width: 100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analicedias&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" style="max-width: 100%;">
+  </a></div>
+
+
+
 <!--
 **AnaliceDias/AnaliceDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
