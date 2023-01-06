@@ -28,6 +28,11 @@
  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
 
+##
+<h3>Onde me encontrar:</h3>
+<div align="center">
+ <a href="https://www.linkedin.com/in/analice-dias-22506b11b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
 <!--
 **AnaliceDias/AnaliceDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
