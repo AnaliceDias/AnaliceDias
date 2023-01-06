@@ -1,7 +1,7 @@
-### Olá, bem vinde ao meu repositório ^^ 👋
+<h1 align="center">Olá, bem vindo ao meu repositório ^^ 👋</h1>
 
-- 💻 Atualmente estou em formação como desenvolvedora full stack
-- 🎈 Fato divertido: Eu amo amemdoim 😋 E meu destino dos sonhos é Bora Bora (Polinésia Francesa) 🌴
+
+- 💻 Desenvolvedora full stack
 - 🌼 Pronomes:Ela/Dela
 
 <div dir="auto">
@@ -10,16 +10,23 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analicedias&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" style="max-width: 100%;" width="48%">
   </a></div>
   
-  <div dir="auto"><br>
-  <img align="center" alt="Analice-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-  <img align="center" alt="Analice-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Analice-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Analice-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-  <img align="center" alt="Analice-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="max-width: 100%;">
-  <img align="center" alt="Analice-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="max-width: 100%;">
+  ##
+<h3>Linguagens e tecnologias:</h3>
+
+
+<div align="center">
+ <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+ <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
-
-
 
 <!--
 **AnaliceDias/AnaliceDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
